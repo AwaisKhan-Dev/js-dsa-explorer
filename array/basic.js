@@ -39,6 +39,5 @@ for (var i=0; i<100; i++){
     arr[i] = i + 1;
 }
 
-//for(var i=0; i<arr.length; i++){
-    console.log(arr.join(','))
-//}
+console.log(arr.join(','))
+
